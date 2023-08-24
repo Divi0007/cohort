@@ -89,7 +89,7 @@ DATABASES = {
         'USER': os.getenv('postgres'),
         'PASSWORD': os.getenv('ejSBUM7fgiZFF9FISL1B'),
         'HOST': os.getenv('containers-us-west-107.railway.app'),
-        'PORT': os.getenv(6487),
+        'PORT': os.getenv('6487'),
     }
 }
 
